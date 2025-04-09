@@ -1,6 +1,5 @@
 # ElevateLabs_Task2
 
-
 # Superstore Sales Dashboard – Data Analyst Internship Task 2
 
 Hi!  
@@ -43,13 +42,10 @@ Here are the visualizations I created in Tableau:
 2. **Sales and Profit Trends Over Time**  
    → Understand how performance changes across months.
 
-3. **Profit by State (Map View)**  
-   → Shows which states are profitable and which are not.
-
-4. **Discount vs Profit (Scatter Plot)**  
+3. **Discount vs Profit (Scatter Plot)**  
    → See how heavy discounts impact profits.
 
-5. **Segment-wise Performance**  
+4. **Segment-wise Performance**  
    → Compare how different customer types perform (Consumer, Corporate, Home Office).
 
 ---
@@ -66,7 +62,6 @@ Here are the visualizations I created in Tableau:
 
 - `Superstore.csv` – The dataset used
 - `Dashboard Screenshots` – Visuals from Tableau
-- `PDF Report` – Export of the final dashboard
 - `README.md` – This file
 
 ---
